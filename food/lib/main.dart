@@ -1,7 +1,7 @@
 import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
 import 'package:food/home_icon_buttoms.dart';
-
+/*homePage*/
 import 'Page2.dart';
 
 void main() {
